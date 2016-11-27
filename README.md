@@ -14,7 +14,7 @@ In this lab, you will create a new Repository in your GitHub CSC-285 organizatio
 
 ## Implementation Notes:
 1. Create a new GitHub Repository for your Sunset app named CSC-285/Sunset-yourUserName
-  * Click [HERE](https://classroom.github.com/assignment-invitations/53427ba458b68318052915448c44377e) to get your invite to your Private Lab 12 repo.
+  * Click [HERE](https://classroom.github.com/assignment-invitations/064a51af11322e62700aac04da28fba3) to get your invite to your Private Lab 12 repo.
   * Follow the Instructions on [How To Start an Assignment from Scratch](../../../How-To-Submit-Assignments#starting-an-assignment-from-scratch).
 2. **Important:** Please Download the [Lab 12 README.md](../../../Lab_12_README) file to your local workstation, then [Upload](../../../How-To-Submit-Assignments#adding-a-new-file-to-your-branch) it into your new Lab 12 Sunset repo.
 3. Implement the project according the specifications described below
