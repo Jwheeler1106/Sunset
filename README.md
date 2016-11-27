@@ -1,4 +1,4 @@
-# CSC-285/Lab-12  (Due Monday Dec. 12 by 11:59pm)
+# CSC-285/Lab-12 Optional Extra Credit (Due Monday Dec. 12 by 11:59pm)
 
 Twelth assignment for CSC 285
 
@@ -27,6 +27,7 @@ In this lab, you will create a new Repository in your GitHub CSC-285 organizatio
   * Modify the code to add the ability to reverse the sunset after it is completed. 
     * User can press for a sunset, and then press a second time to get a sunrise.
     * Build another AnimatorSet to do this
+* Must run without any errors to get credit (no partial credit if app crashes)
 
 ## Submission:
 * You will receive a confirmation email from me that your submission was received.
