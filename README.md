@@ -23,6 +23,10 @@ In this lab, you will create a new Repository in your GitHub CSC-285 organizatio
 #### **Part 1** - Chapter 30 Property Animation
 * Create a [new Android application](https://github.com/CSC-285/How-To-Submit-Assignments/blob/master/README.md#starting-assignments) named Sunset
 * Implement all the functionality in Chapter 30 upto and including page 550.
+* **Complete the first Challenge at the end of Chapter 30**
+  * Modify the code to add the ability to reverse the sunset after it is completed. 
+    * User can press for a sunset, and then press a second time to get a sunrise.
+    * Build another AnimatorSet to do this
 
 ## Submission:
 * You will receive a confirmation email from me that your submission was received.
