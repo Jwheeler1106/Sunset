@@ -35,7 +35,7 @@ In this lab, you will create a new Repository in your GitHub CSC-285 organizatio
 - [ ] Push your commits to GitHub **CSC-285/Sunset-UserName** master branch
 
 ### **Part 2**
-Submit a Text Submission stating "Lab 12 Completed" to Blackboard. The Submission link is buried way at the bottom of the [Lab 12: Sunset App Ver. 1.0](https://hofstra.blackboard.com/webapps/assignment/uploadAssignment?content_id=_2604733_1&course_id=_235199_1&assign_group_id=&mode=cpview) link on the Week 13 Activities page. 
+Submit a Text Submission stating "Lab 12 Completed" to Blackboard. The Submission link is buried way at the bottom of the [Lab 12: Sunset App Ver. 1.0](https://hofstra.blackboard.com/webapps/assignment/uploadAssignment?content_id=_2565210_1&course_id=_235199_1&assign_group_id=&mode=cpview) link on the Week 13 Activities page. 
 
 ## Rubric: The Rubric below will be updated upon completion of the assignment
 
