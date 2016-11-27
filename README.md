@@ -10,7 +10,7 @@ Property Animation
 This week's lab is aimed at familiarizing yourselves with animation. You are going to create a new app called Sunset that shows a scene of the sun in the sky and will animate the sunset when pressed.
 
 ## Overview:
-In this lab, you will create a new Repository in your GitHub CSC-285 organization account and name it **Sunset-UserName**. You will start building a new application named Sunset in Android Studio. This app will show a scene of the sun in the sky. When you press on the scene, it will animate the sun down below the horizon, and the sky will change colors like a sunset.
+In this lab, you will create a new Repository in your GitHub CSC-285 organization account and name it **Sunset-UserName**. You will start building a new application named Sunset in Android Studio. This app will show a scene of the sun in the sky. When you press on the scene, it will animate the sun down below the horizon, and the sky will change colors like a sunset. If pressed again, it will animate the sun to create a sunrise.
 
 ## Implementation Notes:
 1. Create a new GitHub Repository for your Sunset app named CSC-285/Sunset-yourUserName
