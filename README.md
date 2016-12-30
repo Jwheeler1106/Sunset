@@ -42,7 +42,7 @@ In this lab, you will create a new Repository in your GitHub CSC-285 organizatio
 ### **Part 2**
 Submit a Text Submission stating "Lab 12 Completed" to Blackboard. The Submission link is buried way at the bottom of the [Lab 12: Sunset App Ver. 1.0](https://hofstra.blackboard.com/webapps/assignment/uploadAssignment?content_id=_2565210_1&course_id=_235199_1&assign_group_id=&mode=cpview) link on the Week 13 Activities page. 
 
-## Grade:  #/15
+## Grade:  15/15
  * This extra credit Lab-12 will add 15 points to your overall Lab grade bumping the total possible points for Labs from 330 to 345.
    * This essentially transforms into approximately 2 extra points on your final course grade.
  * Must run without any errors to get credit (no partial credit if app crashes)
@@ -50,3 +50,4 @@ Submit a Text Submission stating "Lab 12 Completed" to Blackboard. The Submissio
  * Will not be accepted after the due date
 
 ## Notes:
+* Perfect
